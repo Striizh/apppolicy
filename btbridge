@@ -1,0 +1,340 @@
+Privacy Policy
+Effective Date: November 2, 2026
+
+Last Updated: November 2, 2026
+
+1. Introduction
+tech.grigorii ("we," "our," or "us") operates the BT Intent Bridge mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App on iOS and Android platforms.
+
+We are committed to protecting your privacy and ensuring you understand how your information is handled. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
+
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last Updated" date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the App, and you waive the right to receive specific notice of each such change or modification.
+
+You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the App after the date such revised Privacy Policy is posted.
+
+2. Information We Collect
+We collect information that you provide directly to us, information that is collected automatically when you use the App, and information from third-party sources as described in this Privacy Policy.
+
+2.1 Location Data
+The App collects location data to provide and improve its core functionality. The specific types of location information we collect include:
+
+Precise Location Data: GPS coordinates and other sensor data from your mobile device that provide information about your precise geographic location.
+Approximate Location Data: Information about your general location derived from IP address, cell tower triangulation, or WiFi network positioning.
+Location History: A record of the places your device has been, which may be stored temporarily or persistently depending on your settings and use of the App.
+We collect location data only when you have granted permission through your device settings. You can control location permissions at any time through your device's operating system settings.
+
+2.2 Device Information
+When you use the App, we automatically collect certain information about your device, including:
+
+Device type, model, and manufacturer
+Operating system type and version
+Unique device identifiers (such as IDFA on iOS or Advertising ID on Android)
+Device settings and configurations
+Mobile network information
+Screen resolution and display settings
+Language preferences
+Time zone settings
+2.3 App Usage Information
+We collect information about how you interact with the App, including:
+
+Features you use and actions you take within the App
+Time, frequency, and duration of your activities
+App performance data and crash reports
+Error logs and diagnostic information
+Pages or screens viewed and time spent on those pages or screens
+Navigation paths through the App
+Interactions with notifications
+2.4 Bluetooth Information
+Given the nature of the App's name and functionality, we may collect information related to Bluetooth connections and nearby Bluetooth devices, including:
+
+Bluetooth device names and identifiers
+Signal strength information
+Connection status and history
+Bluetooth hardware capabilities
+2.5 Information We Do Not Collect
+We do not collect the following types of information:
+
+Personal identification information such as name, postal address, or phone number (unless you provide it in communications with us)
+Financial or payment information
+Health or medical information
+Biometric data
+Information about your contacts
+Photos, videos, or other media from your device (unless explicitly shared by you for support purposes)
+3. How We Use Your Information
+We use the information we collect for various purposes, including:
+
+3.1 To Provide and Maintain the App
+Delivering the core functionality of the App, including Bluetooth intent bridging services
+Processing and responding to your requests and preferences
+Maintaining the performance and stability of the App
+Providing customer support and responding to your inquiries
+3.2 To Improve and Optimize the App
+Understanding how users interact with the App and which features are most valuable
+Analyzing usage patterns to enhance user experience
+Developing new features and functionality
+Conducting research and analysis to improve our services
+Testing new features and configurations
+3.3 To Ensure Security and Prevent Fraud
+Detecting, preventing, and addressing technical issues
+Protecting against fraudulent, unauthorized, or illegal activity
+Enforcing our terms of service and other policies
+Monitoring and analyzing security threats
+Investigating and preventing violations of our policies
+3.4 To Communicate With You
+Sending you technical notices, updates, and security alerts
+Responding to your comments, questions, and customer service requests
+Providing information about changes to the App or our policies
+Notifying you about issues that may affect your use of the App
+3.5 For Legal Compliance
+Complying with applicable laws, regulations, and legal processes
+Responding to lawful requests from public authorities
+Protecting our rights, privacy, safety, or property
+Enforcing our legal agreements and policies
+4. Legal Basis for Processing (for Users Subject to GDPR)
+If you are located in the European Economic Area, United Kingdom, or Switzerland, we process your personal data based on the following legal grounds:
+
+Consent: We process location data and certain other information based on your explicit consent, which you can withdraw at any time through your device settings or by contacting us.
+Contractual Necessity: Processing is necessary to provide you with the App services you have requested.
+Legitimate Interests: We process certain information based on our legitimate interests in improving the App, ensuring security, and conducting business operations, provided these interests are not overridden by your data protection rights.
+Legal Obligation: We process information to comply with applicable laws and regulations.
+5. How We Share Your Information
+We do not sell, trade, or rent your personal information to third parties. We do not share your information with third-party services for advertising or analytics purposes. However, we may share your information in the following limited circumstances:
+
+5.1 With Service Providers
+We may share information with trusted service providers who assist us in operating the App, conducting our business, or servicing you, provided those parties agree to keep this information confidential. These service providers may include:
+
+Cloud hosting and storage providers
+Technical infrastructure providers
+Customer support service providers
+IT security consultants
+These service providers are contractually obligated to use your information only as necessary to provide services to us and are required to maintain the confidentiality and security of your information.
+
+5.2 For Legal Requirements
+We may disclose your information when we believe in good faith that such disclosure is necessary to:
+
+Comply with applicable law, regulation, legal process, or enforceable governmental request
+Enforce applicable terms of service, including investigation of potential violations
+Detect, prevent, or otherwise address fraud, security, or technical issues
+Protect against harm to the rights, property, or safety of tech.grigorii, our users, or the public as required or permitted by law
+5.3 Business Transfers
+If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be transferred as part of such a transaction. We will provide notice before your information is transferred and becomes subject to a different privacy policy.
+
+5.4 With Your Consent
+We may share your information with third parties when we have your explicit consent to do so.
+
+5.5 Aggregate and De-Identified Information
+We may share aggregate, anonymized, or de-identified information that cannot reasonably be used to identify you. This information may be used for research, analysis, or other purposes without restriction.
+
+6. Third-Party Services
+The App does not currently integrate with third-party analytics, advertising, or tracking services. We do not use third-party SDKs or APIs that collect data about you.
+
+If we choose to integrate third-party services in the future, we will update this Privacy Policy accordingly and, where required by law, obtain your consent before implementing such services.
+
+7. Data Retention
+We retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+7.1 Retention Periods
+The criteria we use to determine our retention periods include:
+
+The length of time we have an ongoing relationship with you and provide the App to you
+Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period before we can delete them)
+Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, or regulatory investigations)
+7.2 Specific Retention Practices
+Location Data: Location data is retained only as long as necessary to provide the App's functionality and is typically deleted or anonymized within ninety days, unless you have chosen to retain location history or longer retention is required for legitimate business purposes.
+Device Information: Device information is retained for as long as you use the App and for up to two years after your last interaction with the App.
+App Usage Information: Usage logs and analytics data are typically retained for up to two years, after which they are deleted or aggregated and anonymized.
+Support Communications: If you contact us for support, we retain records of that communication for up to three years to provide ongoing support and improve our services.
+7.3 Deletion Upon Request
+You have the right to request deletion of your information at any time. Upon receiving a verified deletion request, we will delete your personal information from our active databases and instruct our service providers to do the same, except where retention is necessary for legal compliance, dispute resolution, or other legitimate purposes.
+
+8. Data Security
+We implement appropriate technical and organizational security measures designed to protect your information against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.
+
+8.1 Security Measures
+Our security practices include:
+
+Encryption: Data transmitted between your device and our servers is encrypted using industry-standard protocols (TLS/SSL). Location data and other sensitive information stored on our servers is encrypted at rest.
+Access Controls: We restrict access to personal information to employees, contractors, and agents who need to know that information to operate, develop, or improve our App. These individuals are bound by confidentiality obligations.
+Secure Development: We follow secure coding practices and conduct regular security reviews of our code and infrastructure.
+Monitoring: We monitor our systems for potential security vulnerabilities and attacks.
+Incident Response: We maintain an incident response plan to address security breaches promptly and effectively.
+8.2 Your Responsibility
+While we strive to protect your information, no method of transmission over the internet or electronic storage is completely secure. We cannot guarantee absolute security. You are responsible for maintaining the security of your device and access credentials.
+
+8.3 Security Breach Notification
+In the event of a data breach that is reasonably likely to result in a risk to your rights and freedoms, we will notify you and relevant authorities as required by applicable law. Notification will be made without undue delay and, where feasible, within 72 hours of our becoming aware of the breach.
+
+9. Your Privacy Rights and Choices
+You have certain rights regarding your personal information, depending on your jurisdiction.
+
+9.1 Access and Portability
+You have the right to request access to the personal information we hold about you and to receive a copy of that information in a structured, commonly used, and machine-readable format. You may also request that we transmit this information to another service provider where technically feasible.
+
+9.2 Correction
+You have the right to request that we correct any inaccurate personal information we hold about you and to complete any incomplete personal information.
+
+9.3 Deletion
+You have the right to request that we delete your personal information, subject to certain exceptions such as when we need to retain information for legal compliance or to establish, exercise, or defend legal claims.
+
+9.4 Restriction and Objection
+You have the right to request that we restrict the processing of your personal information in certain circumstances, such as when you contest the accuracy of the data or object to processing based on legitimate interests.
+
+9.5 Withdraw Consent
+Where we process your information based on your consent, you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal.
+
+9.6 Location Permissions
+You can control location permissions through your device settings:
+
+iOS: Go to Settings > Privacy & Security > Location Services > BT Intent Bridge, and select your preferred location access level (Never, Ask Next Time or When I Share, While Using the App).
+Android: Go to Settings > Apps > BT Intent Bridge > Permissions > Location, and select your preferred option (Allow all the time, Allow only while using the app, Ask every time, or Don't allow).
+Please note that disabling location services may limit the functionality of the App.
+
+9.7 Bluetooth Permissions
+You can control Bluetooth permissions through your device settings. Disabling Bluetooth access will prevent the App from functioning properly.
+
+9.8 Opt-Out of Communications
+You may opt out of receiving promotional communications from us by following the unsubscribe instructions in those communications or by contacting us directly. Please note that even if you opt out of promotional communications, we may still send you non-promotional messages related to your use of the App, such as technical notices and security alerts.
+
+9.9 California Privacy Rights
+If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA):
+
+Right to Know: You have the right to request information about the categories and specific pieces of personal information we have collected about you, the categories of sources from which we collected the information, our business or commercial purpose for collecting the information, and the categories of third parties with whom we share the information.
+Right to Delete: You have the right to request deletion of personal information we have collected from you, subject to certain exceptions.
+Right to Correct: You have the right to request correction of inaccurate personal information we maintain about you.
+Right to Opt-Out of Sale or Sharing: We do not sell or share your personal information as those terms are defined under California law.
+Right to Limit Use of Sensitive Personal Information: Location data may be considered sensitive personal information. You can limit our use of this data by adjusting your device settings as described above.
+Right to Non-Discrimination: You have the right not to receive discriminatory treatment for exercising your CCPA/CPRA rights.
+To exercise these rights, please contact us using the information provided in the Contact section below. We will verify your identity before processing your request.
+
+9.10 Nevada Privacy Rights
+If you are a Nevada resident, you have the right to opt out of the sale of certain personal information to third parties. We do not sell your personal information as defined under Nevada law. If you have questions about our data practices or would like to exercise your Nevada privacy rights, please contact us.
+
+9.11 Virginia, Colorado, Connecticut, and Utah Privacy Rights
+If you are a resident of Virginia, Colorado, Connecticut, or Utah, you may have additional rights under state privacy laws, including the right to access, correct, delete, and obtain a copy of your personal information, as well as the right to opt out of targeted advertising, sale of personal information, and certain profiling activities. We do not engage in targeted advertising or sell personal information. To exercise your rights, please contact us.
+
+9.12 Exercising Your Rights
+To exercise any of these rights, please contact us at greg.stepanenko@gmail.com. We will respond to your request within the timeframe required by applicable law, typically within 30-45 days. We may need to verify your identity before processing your request to protect your privacy and security.
+
+You may also designate an authorized agent to make a request on your behalf. We will require written proof that the agent is authorized to act on your behalf and may need to verify your identity directly.
+
+10. Children's Privacy
+The App is not intended for use by children under the age of 13 (or the applicable age of digital consent in your jurisdiction). We do not knowingly collect personal information from children under 13.
+
+If we learn that we have collected personal information from a child under 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe we might have information from or about a child under 13, please contact us at greg.stepanenko@gmail.com.
+
+Parents and guardians should monitor their children's use of mobile applications and educate them about providing personal information online.
+
+11. International Data Transfers
+Your information may be transferred to, stored, and processed in countries other than your country of residence, including the United States, where data protection laws may differ from those in your country.
+
+When we transfer information internationally, we take steps to ensure that your information receives an adequate level of protection, including:
+
+Implementing appropriate safeguards such as standard contractual clauses approved by relevant authorities
+Ensuring that service providers in other countries provide adequate protection for your information
+Complying with applicable data protection frameworks
+By using the App, you consent to the transfer of your information to countries outside your country of residence, including the United States, which may have different data protection rules than your country.
+
+12. Do Not Track Signals
+Some web browsers and mobile devices include a "Do Not Track" (DNT) feature or setting that signals your privacy preference not to have data about your online browsing activities monitored and collected. Currently, there is no uniform technology standard for recognizing and implementing DNT signals, and as such, the App does not respond to DNT signals. We will continue to monitor developments around DNT browser technology and the implementation of a standard.
+
+13. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. When we make changes, we will update the "Last Updated" date at the top of this Privacy Policy.
+
+If we make material changes to this Privacy Policy, we will provide you with notice through the App, by email (if we have your email address), or by other means as appropriate under the circumstances. Material changes may include:
+
+Changes to the types of personal information we collect
+Changes to how we use or share personal information
+Changes that materially affect your rights
+Implementation of new technologies that affect data processing
+We encourage you to review this Privacy Policy periodically to stay informed about our information practices. Your continued use of the App after we post changes constitutes your acceptance of those changes.
+
+14. Third-Party Links and Services
+The App may contain links to third-party websites, applications, or services that are not owned or controlled by tech.grigorii. This Privacy Policy does not apply to those third-party services.
+
+We are not responsible for the privacy practices or content of third-party websites or services. We encourage you to read the privacy policies of any third-party services you visit or use. When you leave our App or interact with third-party content, you do so at your own risk.
+
+15. Data Protection Officer
+If required by applicable law, tech.grigorii has appointed a data protection officer (DPO) who is responsible for overseeing compliance with this Privacy Policy and applicable data protection laws. If you have questions about how we handle your personal information or wish to exercise your privacy rights, you may contact our DPO at greg.stepanenko@gmail.com.
+
+16. Supervisory Authority
+If you are located in the European Economic Area, United Kingdom, or Switzerland, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable data protection law. You can find contact information for supervisory authorities at:
+
+European Data Protection Board: https://edpb.europa.eu/about-edpb/about-edpb/members_en
+UK Information Commissioner's Office: https://ico.org.uk/
+Swiss Federal Data Protection and Information Commissioner: https://www.edoeb.admin.ch/
+17. Biometric Data
+The App does not collect, use, or store biometric data such as fingerprints, facial recognition data, voiceprints, or retina scans. If we decide to collect biometric data in the future, we will update this Privacy Policy and obtain your explicit consent as required by applicable law.
+
+18. Automated Decision-Making and Profiling
+We do not use your personal information for automated decision-making or profiling that produces legal effects concerning you or similarly significantly affects you. If we implement such practices in the future, we will provide you with information about the logic involved and obtain your consent where required by law.
+
+19. Data Accuracy and Quality
+We take reasonable steps to ensure that the personal information we collect and maintain is accurate, complete, and up to date. However, we rely on you to provide accurate information and to notify us of any changes to your information. You can help us maintain data accuracy by contacting us if you believe any information we hold about you is inaccurate or incomplete.
+
+20. Business Information
+To the extent that you provide us with business information in the course of using the App for business purposes, we will handle that information in accordance with this Privacy Policy. Business information may include information about your business operations, business contacts, or other information provided in a business context.
+
+21. Anonymous and Aggregate Information
+We may create anonymous, aggregated, or de-identified data from personal information by removing information that makes the data personally identifiable to you. We may use this anonymous, aggregated, or de-identified data and share it with third parties for our lawful business purposes, including to analyze and improve the App, promote our business, and develop new products and services. This data cannot be used to identify you personally.
+
+22. Legal Basis Summary
+For users subject to the General Data Protection Regulation (GDPR) or similar regulations, we process personal information based on the following legal bases:
+
+Consent: Location data collection and certain other processing activities
+Contract: Providing the App services and features you request
+Legitimate Interests: Improving the App, ensuring security, preventing fraud, and conducting analytics
+Legal Obligation: Complying with laws and regulations, responding to legal requests
+23. Contact Information
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+tech.grigorii
+Email: greg.stepanenko@gmail.com
+
+When you contact us, please provide sufficient information for us to identify you and respond to your inquiry. We will respond to your inquiry within a reasonable timeframe, typically within 30 days.
+
+For privacy-related concerns, please include "Privacy Request" in the subject line of your email to help us route your inquiry appropriately.
+
+24. Dispute Resolution
+If you have a complaint about our handling of your personal information, we encourage you to contact us first so we can attempt to resolve your concern. We take privacy concerns seriously and will investigate and attempt to resolve complaints in accordance with this Privacy Policy and applicable law.
+
+If you are not satisfied with our response, you may have the right to lodge a complaint with a data protection authority in your jurisdiction or to pursue other legal remedies available to you under applicable law.
+
+25. Accessibility
+We are committed to ensuring this Privacy Policy is accessible to individuals with disabilities. If you have difficulty accessing or understanding any part of this Privacy Policy, please contact us at greg.stepanenko@gmail.com, and we will work to provide the information in an alternative format.
+
+26. Additional Jurisdictional Information
+26.1 Users in the United States
+This App is operated from and governed by the laws of the United States. If you are accessing the App from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers and databases are located. The data protection and privacy laws in the United States may not be as comprehensive as those in your country. By using the App, you consent to the transfer of your information to the United States.
+
+26.2 State-Specific Information
+Residents of certain U.S. states may have additional rights as described in Section 9 above. We respect and comply with all applicable state privacy laws.
+
+27. Retention and Deletion Details
+When you request deletion of your information or stop using the App, we will delete or anonymize your personal information according to the following schedule:
+
+Active location data is deleted or anonymized within 30 days of your deletion request or App uninstallation
+Backup copies are deleted within 90 days
+Archived logs containing personal information are deleted within 180 days
+Some information may be retained in anonymized or aggregated form indefinitely for analytical purposes
+Information required for legal compliance or to defend legal claims will be retained only as long as necessary for those purposes
+28. Security Incident History
+As of the effective date of this Privacy Policy, tech.grigorii has not experienced any material security breaches involving personal information collected through the App. We maintain comprehensive security measures and incident response procedures to protect your information and will notify you as required by law in the event of any future security incidents.
+
+29. Consent and Acknowledgment
+By using the App, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described herein. If you do not agree with this Privacy Policy, please do not use the App.
+
+For processing activities that require your explicit consent under applicable law, we will obtain that consent separately through the App interface or device permissions before collecting or processing the relevant information.
+
+30. Severability
+If any provision of this Privacy Policy is found to be unenforceable or invalid under applicable law, that provision will be limited or eliminated to the minimum extent necessary so that this Privacy Policy will otherwise remain in full force and effect and enforceable.
+
+31. Entire Agreement
+This Privacy Policy, together with our Terms of Service, constitutes the entire agreement between you and tech.grigorii regarding the privacy aspects of your use of the App and supersedes all prior or contemporaneous communications and proposals, whether electronic, oral, or written, between you and tech.grigorii with respect to the App's privacy practices.
+
+32. Language
+This Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls, except where prohibited by applicable law.
+
+33. Effective Date and Version Control
+This Privacy Policy is effective as of November 2, 2026. This is version 1.0 of our Privacy Policy. We maintain version control to track changes over time. Previous versions are available upon request by contacting us at greg.stepanenko@gmail.com.
+
+Thank you for trusting tech.grigorii with your information. We are committed to protecting your privacy and handling your data responsibly.
